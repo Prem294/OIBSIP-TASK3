@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fdfdfdaf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+
+
+    background-image: url('https://img.freepik.com/free-vector/field_1308-43289.jpg');
+    height: 100vh;
+    background-size: cover;
+
+}
+title
+.converter {
+    background: #0c0c0c;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(48, 43, 43, 0.1);
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+input, select, button {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+p {
+    font-size: 1.2em;
+}
